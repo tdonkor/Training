@@ -34,6 +34,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -42,12 +43,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Async\EntryPoint.cs" />
+    <Compile Include="Async\EntryPoint2.cs" />
+    <Compile Include="Delegates\EntryPoint.cs" />
+    <Compile Include="Delegates\EntryPoint2.cs" />
+    <Compile Include="Delegates\EntryPoint3.cs" />
+    <Compile Include="Delegates\EntryPoint4.cs" />
+    <Compile Include="Events\EntryPoint.cs" />
+    <Compile Include="Events\Shooter.cs" />
+    <Compile Include="Events\ShotsFiredEventArgs.cs" />
+    <Compile Include="Extensionmethods\Distance.cs" />
+    <Compile Include="Extensionmethods\EntryPoint.cs" />
+    <Compile Include="Extensionmethods\Extensions..cs" />
+    <Compile Include="Generics\EntryPoint2.cs" />
+    <Compile Include="Generics\EntryPointcs.cs" />
+    <Compile Include="Generics\MyList.cs" />
+    <Compile Include="Generics\Person.cs" />
     <Compile Include="LinqAndLambdas\EntryPoint.cs" />
+    <Compile Include="LinqAndLambdas\EntryPoint2.cs" />
     <Compile Include="LinqAndLambdas\Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

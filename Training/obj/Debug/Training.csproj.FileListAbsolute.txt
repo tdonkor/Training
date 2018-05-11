@@ -1,0 +1,7 @@
+C:\Users\Thomas Donkor\source\repos\Training\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+C:\Users\Thomas Donkor\source\repos\Training\Training\obj\Debug\Training.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Donkor\source\repos\Training\Training\bin\Debug\Training.exe.config
+C:\Users\Thomas Donkor\source\repos\Training\Training\bin\Debug\Training.exe
+C:\Users\Thomas Donkor\source\repos\Training\Training\bin\Debug\Training.pdb
+C:\Users\Thomas Donkor\source\repos\Training\Training\obj\Debug\Training.exe
+C:\Users\Thomas Donkor\source\repos\Training\Training\obj\Debug\Training.pdb
